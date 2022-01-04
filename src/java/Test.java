@@ -9,9 +9,6 @@ public class Test {
     print(igor.getName());
     print("Hello");
     print("11111");
-
-    var igor = new User(1, "Igor");
-    print(igor);
   }
 
   public static void print(Object obj) {
