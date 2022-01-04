@@ -2,6 +2,11 @@ package src.java;
 
 public class Test {
   public static void main(String[] args) {
+    var igor = new User(1, "Igor");
+
+    print(igor);
+    print(igor.getId());
+    print(igor.getName());
     print("Hello");
     print("11111");
 
