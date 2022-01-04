@@ -7,6 +7,6 @@ public class Test {
   }
 
   public static void print(Object obj) {
-    System.out.println("[log] " + obj);
+    System.out.println("[LOG] " + obj);
   }
 }
