@@ -2,10 +2,14 @@ package src.java;
 
 public class Test {
   public static void main(String[] args) {
-    System.out.println("Hello");
-    System.out.println("11111");
+    print("Hello");
+    print("11111");
 
     var igor = new User(1, "Igor");
-    System.out.println(igor);
+    print(igor);
+  }
+
+  public static void print(Object obj) {
+    System.out.println("[log] " + obj);
   }
 }
