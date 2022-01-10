@@ -13,7 +13,8 @@ public class UserTest {
   @Test
   public void getName() {
     User user = new User(1, "Name");
-    assertEquals(user, user);
+    assertEquals(1, user.getId());
+    assertEquals("Name", user.getName());
   }
 
 }
