@@ -15,4 +15,5 @@ public class UserTest {
   public void getName() {
     assertEquals(1, 1);
   }
+
 }
