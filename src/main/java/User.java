@@ -11,7 +11,9 @@ public class User {
     this.name = name;
   }
 
-  public User() {}
+  public User() {
+    System.out.println("_User_Constructor_");
+  }
 
   public int getId() {
     return id;
@@ -28,5 +30,6 @@ public class User {
   public void setName(String name) {
     this.name = name;
   }
+
 
 }
