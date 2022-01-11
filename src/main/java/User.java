@@ -12,6 +12,7 @@ public class User {
   }
 
   public User() {
+    System.out.println("_User_Constructor_");
   }
 
   public int getId() {
