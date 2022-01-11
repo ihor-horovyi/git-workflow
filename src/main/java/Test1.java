@@ -10,7 +10,6 @@ public class Test1 {
                     new src.main.java.User(9, "A"),
                     new src.main.java.User(8, "B"),
                     new src.main.java.User(7, "V")
-
             ),
             List.of(
                     new src.main.java.User(3, "Q"),
