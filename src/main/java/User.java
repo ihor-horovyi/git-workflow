@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class User {
 
   private int id;
