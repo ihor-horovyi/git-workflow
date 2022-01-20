@@ -30,8 +30,14 @@ public class Test1 {
     );
 
 
+
     listOfUsers.stream()
             .forEach(System.out::println);
   }
 
 }
+
+
+
+
+
