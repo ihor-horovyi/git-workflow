@@ -1,4 +1,4 @@
-name: Automatic Rebase
+name: Automatic rebase: master to ${GITHUB_REF##*/}
 on:
   issue_comment:
     types: [created]
