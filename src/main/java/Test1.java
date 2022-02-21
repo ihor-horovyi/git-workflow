@@ -24,9 +24,6 @@ public class Test1 {
                     new src.main.java.User(5, "K"),
                     new src.main.java.User(4, "J")
             )
-
-
-
     );
 
 
