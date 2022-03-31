@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="UserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-10T15:40:44" hostname="MACC02C79VFMD6T" time="0.026">
+<testsuite name="UserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-11T17:39:58" hostname="MACC02C79VFMD6T" time="0.034">
   <properties/>
-  <testcase name="getName()" classname="UserTest" time="0.024"/>
-  <testcase name="getId()" classname="UserTest" time="0.001"/>
+  <testcase name="getName()" classname="UserTest" time="0.03"/>
+  <testcase name="getId()" classname="UserTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
